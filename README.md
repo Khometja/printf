@@ -1,1 +1,1 @@
-ALX Group project
+ALX group project
